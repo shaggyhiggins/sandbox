@@ -1,0 +1,10 @@
+{
+    "cmake.generator": "MinGW Makefiles",
+    "cmake.preferredGenerators": [
+        "MinGW Makefiles",
+        "Ninja",
+        "Unix Makefiles"
+    ],
+    "cmake.buildDirectory": "${workspaceRoot}/cmake-build-${buildType}",
+    "editor.rulers": [80, 132]
+}
